@@ -139,7 +139,7 @@
   1},
  {<<"riak_repl">>,
   {git,"git://github.com/basho/riak_repl.git",
-       {ref,"318e4367f5283f0d1ea6407770db84c19b4a01cf"}},
+       {ref,"7ad126134a08332ac17e9379d51272c06a6b0744"}},
   0},
  {<<"riak_repl_pb_api">>,
   {git,"git://github.com/basho/riak_repl_pb_api.git",
@@ -148,7 +148,7 @@
  {<<"riak_sysmon">>,{pkg,<<"riak_sysmon">>,<<"2.1.7">>},3},
  {<<"riakc">>,
   {git,"git://github.com/basho/riak-erlang-client",
-       {ref,"a47f7a01bac76d33f32c907f4a3a675c66239d03"}},
+       {ref,"9338671a2f3a94c7ad2ba67ca9e4bf9ce46d606a"}},
   1},
  {<<"setup">>,{pkg,<<"setup">>,<<"2.0.2">>},4},
  {<<"sext">>,
@@ -169,7 +169,7 @@
   2},
  {<<"yokozuna">>,
   {git,"git://github.com/basho/yokozuna.git",
-       {ref,"fa7f1cb6e0e29962263df7796bae0e1f634364f7"}},
+       {ref,"ba50a123f2fe5ac74cbb87fc6ef1e06198509c29"}},
   0}]}.
 [
 {pkg_hash,[
