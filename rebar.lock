@@ -107,7 +107,7 @@
   1},
  {<<"riak_api">>,
   {git,"git://github.com/basho/riak_api.git",
-       {ref,"9c355c8c0717525f53ee6aa14308c9c25de4c449"}},
+       {ref,"03668bde31c3f33f1fbd871f39eddf0e5ebd13cd"}},
   1},
  {<<"riak_auth_mods">>,
   {git,"git://github.com/basho/riak_auth_mods.git",
